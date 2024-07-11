@@ -1,0 +1,18 @@
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\bin\Release\TrippLite GUI.exe.config
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite GUI.csproj.ResolveComReference.cache
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\bin\Release\SnmpSharpNet.dll
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\bin\Release\TrippLite GUI.exe.manifest
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\bin\Release\TrippLite GUI.application
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\bin\Release\TrippLite GUI.exe
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\bin\Release\TrippLite GUI.pdb
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite_GUI.AboutBox1.resources
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite_GUI.Form1.resources
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite_GUI.Form5.resources
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite_GUI.Main.resources
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite_GUI.Properties.Resources.resources
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite_GUI.RightClickPopUp.resources
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite GUI.csproj.GenerateResource.Cache
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite GUI.exe.manifest
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite GUI.application
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite GUI.exe
+\\fox\raid\10gec\TrippLite\Source Code\TLPDUCONTROL_v5\TrippLite GUI\TrippLite GUI\obj\Release\TrippLite GUI.pdb
